@@ -54,49 +54,7 @@ const saber = {
 
 ---
 
-# 🚀 What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌐 Web Application Development</h3>
-
-<p>
-Building modern, scalable, and user-friendly web solutions.
-</p>
-
-<ul>
-  <li>🚀 Business & Corporate Websites</li>
-  <li>🛒 E-Commerce Platforms</li>
-  <li>📊 Admin Dashboards & Analytics Systems</li>
-  <li>🎯 SaaS Applications</li>
-  <li>📱 Responsive Web Experiences</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Backend & Software Engineering</h3>
-
-<p>
-Developing secure and high-performance backend architectures.
-</p>
-
-<ul>
-  <li>🔗 RESTful API Development</li>
-  <li>🔐 Authentication & Authorization Systems</li>
-  <li>🗄️ Database Design & Optimization</li>
-  <li>🏗️ Scalable Microservices Architecture</li>
-  <li>☁️ Cloud-Ready Applications</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
----
 
 
 
