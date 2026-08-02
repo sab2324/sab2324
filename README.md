@@ -36,7 +36,7 @@ Building fast, scalable and modern web applications.
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,nestjs" />
 </p>
 
 ### Database
@@ -97,13 +97,7 @@ Building fast, scalable and modern web applications.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sab2324&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
