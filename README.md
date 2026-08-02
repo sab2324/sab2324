@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Saber 👋
 
-<!--
-**sab2324/sab2324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Web Developer
 
-Here are some ideas to get you started:
+I build modern, scalable, and responsive web applications using the latest technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+#### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+#### Backend
+- Spring Boot
+- Node.js
+- Express.js
+- NestJS
+
+#### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+
+#### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
+
+---
+
+## 🌟 Services
+
+- 🌐 Business Websites
+- 🛒 E-Commerce Websites
+- 📱 Responsive Web Applications
+- 🔐 Authentication Systems
+- ⚡ REST API Development
+- 🎨 Modern UI/UX Design
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/sab2324
+- LinkedIn: *(Add your profile)*
+- Portfolio: *(Add your website)*
+
+---
+
+⭐ Thanks for visiting my profile!
