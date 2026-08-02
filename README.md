@@ -1,57 +1,140 @@
-# Hi there, I'm Saber 👋
+<div align="center">
 
-## 💻 Full Stack Web Developer
+# 👋 Hi, I'm Saber
 
-I build modern, scalable, and responsive web applications using the latest technologies.
+### Full Stack Web Developer
 
-### 🚀 Tech Stack
+Building fast, scalable and modern web applications.
 
-#### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5
-- CSS3
+<p>
+  <a href="https://github.com/sab2324">
+    <img src="https://komarev.com/ghpvc/?username=sab2324&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
-#### Backend
-- Spring Boot
-- Node.js
-- Express.js
-- NestJS
-
-#### Database
-- MySQL
-- PostgreSQL
-- MongoDB
-
-#### Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
+</div>
 
 ---
 
-## 🌟 Services
+# 🚀 About Me
 
-- 🌐 Business Websites
-- 🛒 E-Commerce Websites
-- 📱 Responsive Web Applications
-- 🔐 Authentication Systems
-- ⚡ REST API Development
-- 🎨 Modern UI/UX Design
+- 💻 Full Stack Web Developer
+- 🌱 Currently improving my skills in **Spring Boot**, **React**, and **Microservices**
+- ⚡ Passionate about building scalable web applications
+- 🎯 Always learning new technologies
 
 ---
 
-## 📫 Contact
+# 🛠 Tech Stack
 
-- GitHub: https://github.com/sab2324
-- LinkedIn: *(Add your profile)*
-- Portfolio: *(Add your website)*
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,maven" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 💼 Services
+
+✅ Business Websites
+
+✅ Portfolio Websites
+
+✅ Landing Pages
+
+✅ E-Commerce Websites
+
+✅ REST API Development
+
+✅ Authentication (JWT)
+
+✅ Responsive Design
+
+✅ Database Design
+
+✅ Performance Optimization
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sab2324&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sab2324&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sab2324&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sab2324&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/sab2324">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<!-- Add your LinkedIn -->
+<!--
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+-->
+
+<!-- Add your Portfolio -->
+<!--
+<a href="https://yourwebsite.com">
+🌐 Portfolio
+</a>
+-->
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
