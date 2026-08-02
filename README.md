@@ -58,23 +58,39 @@ const saber = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Web Platforms
-- Business websites
-- SaaS applications
-- Dashboards
-- E-commerce platforms
+<h3>🌐 Web Application Development</h3>
+
+<p>
+Building modern, scalable, and user-friendly web solutions.
+</p>
+
+<ul>
+  <li>🚀 Business & Corporate Websites</li>
+  <li>🛒 E-Commerce Platforms</li>
+  <li>📊 Admin Dashboards & Analytics Systems</li>
+  <li>🎯 SaaS Applications</li>
+  <li>📱 Responsive Web Experiences</li>
+</ul>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend Systems
-- REST APIs
-- Authentication systems
-- Database architecture
-- Microservices
+<h3>⚙️ Backend & Software Engineering</h3>
+
+<p>
+Developing secure and high-performance backend architectures.
+</p>
+
+<ul>
+  <li>🔗 RESTful API Development</li>
+  <li>🔐 Authentication & Authorization Systems</li>
+  <li>🗄️ Database Design & Optimization</li>
+  <li>🏗️ Scalable Microservices Architecture</li>
+  <li>☁️ Cloud-Ready Applications</li>
+</ul>
 
 </td>
 </tr>
@@ -82,33 +98,10 @@ const saber = {
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sab2324&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sab2324&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sab2324/sab2324/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sab2324&theme=tokyo-night&hide_border=true"/>
-
----
 
 # 📫 Connect With Me
 
